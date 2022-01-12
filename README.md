@@ -1,0 +1,1 @@
+# ManagementIT.ApiGetWay
